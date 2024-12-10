@@ -6,7 +6,8 @@
 
 ### Make a little difference
 
-- Make a similar drag practice. [DEMO](https://yswnqc.github.io/50_frontend_projects-drag/)
+- Make a similar drag practice. [LINK TO](https://github.com/yswnqc/50_frontend_projects-drag)
+- [DEMO](https://yswnqc.github.io/50_frontend_projects-drag/)
 
 ### Need improve
 
